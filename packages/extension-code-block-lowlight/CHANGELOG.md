@@ -1,5 +1,14 @@
 # Change Log
 
+## 3.0.0-pre.0
+
+### Patch Changes
+
+- Updated dependencies [d88244d]
+  - @tiptap/core@3.0.0-pre.0
+  - @tiptap/extension-code-block@3.0.0-pre.0
+  - @tiptap/pm@3.0.0-pre.0
+
 ## 2.11.6
 
 ## 2.11.5

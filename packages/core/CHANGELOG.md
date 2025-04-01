@@ -1,5 +1,12 @@
 # Change Log
 
+## 3.0.0-pre.0
+
+### Patch Changes
+
+- d88244d: Clone dragged node before dragging to get correct drag preview image
+  - @tiptap/pm@3.0.0-pre.0
+
 ## 2.11.6
 
 ### Patch Changes

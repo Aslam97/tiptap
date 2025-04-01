@@ -1,5 +1,16 @@
 # Change Log
 
+## 3.0.0-pre.0
+
+### Minor Changes
+
+- f5a65f7: Add width and height attributes to Image node
+
+### Patch Changes
+
+- Updated dependencies [d88244d]
+  - @tiptap/core@3.0.0-pre.0
+
 ## 2.11.6
 
 ## 2.11.5

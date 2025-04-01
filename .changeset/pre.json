@@ -59,5 +59,10 @@
     "@tiptap/vue-3": "2.11.6",
     "@tiptap-shared/rollup-config": "1.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "fast-foxes-mate",
+    "popular-geckos-pay",
+    "shiny-days-rhyme",
+    "wise-carpets-unite"
+  ]
 }
